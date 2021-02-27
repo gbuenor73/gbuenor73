@@ -23,7 +23,7 @@
 </a>
 -->
 
-[![GitHub gbuenor73](https://img.shields.io/github/followers/gbuenor?label=follow&style=social)](https://github.com/gbuenor)
+[![GitHub gbuenor73](https://img.shields.io/github/followers/gbuenor?label=follow&style=social)](https://github.com/gbuenor73)
 <br/>
 
 - 🔭 I am currently working with development using Java
@@ -44,7 +44,7 @@
 
 ### Some of my projects
 
-[![KAFKA ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=spring-kafka-sample&show_owner=true&theme=dark)](https://github.com/gbuenor73/chat_web_socket)
+[![KAFKA ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=chat_web_socket&show_owner=true&theme=dark)](https://github.com/gbuenor73/chat_web_socket)
 
 <br/>
 
