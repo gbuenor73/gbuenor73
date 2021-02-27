@@ -20,7 +20,7 @@
 </a>
 -->
 
-[![GitHub jssfernandes](https://img.shields.io/github/followers/jssfernandes?label=follow&style=social)](https://github.com/jssfernandes)
+[![GitHub gbuenor73](https://img.shields.io/github/followers/jssfernandes?label=follow&style=social)](https://github.com/jssfernandes)
 <br/>
 
 - 🔭 I am currently working with development using Java
