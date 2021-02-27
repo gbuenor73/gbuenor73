@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 
-<a href="https://twitter.com/joseniltonssf">
+<a href="https://twitter.com/gbuenor">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 -->
@@ -23,7 +23,7 @@
 </a>
 -->
 
-[![GitHub gbuenor73](https://img.shields.io/github/followers/gbuenor?label=follow&style=social)](https://github.com/gbuenor73)
+[![GitHub gbuenor73](https://img.shields.io/github/followers/gbuenor73?label=follow&style=social)](https://github.com/gbuenor73)
 <br/>
 
 - 🔭 I am currently working with development using Java
