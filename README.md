@@ -44,15 +44,11 @@
 
 ### Some of my projects
 
-[![KAFKA ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=spring-kafka-sample&show_owner=true&theme=dark)](https://github.com/gbuenor73/spring-kafka-sample)
+[![KAFKA ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=spring-kafka-sample&show_owner=true&theme=dark)](https://github.com/gbuenor73/chat_web_socket)
 
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gbuenor73&label=Views&color=blue&style=plastic" alt="gbuenor73" /> </p>
-
-
-
-
 
 <!--
 **gbuenor73/gbuenor73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
