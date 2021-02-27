@@ -45,11 +45,6 @@
 ### Some of my projects
 
 [![KAFKA ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=spring-kafka-sample&show_owner=true&theme=dark)](https://github.com/gbuenor73/spring-kafka-sample)
-[![HackerRank-Java ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=HackerRank-Java&show_owner=true&theme=dracula)](https://github.com/gbuenor73/HackerRank-Java)
-[![KAFKA Producer ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=spring-kafka-producer-sample&show_owner=true&theme=tokyonight)](https://github.com/gbuenor73/spring-kafka-producer-sample)
-[![HackerRank-Python ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=HackerRank-Python&show_owner=true&theme=highcontrast)](https://github.com/gbuenor73/HackerRank-Python)
-[![KAFKA Consumer ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=spring-kafka-consumer-sample&show_owner=true&theme=radical)](https://github.com/gbuenor73/spring-kafka-consumer-sample)
-[![Search Selenium ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=search-selenium&show_owner=true&theme=merko)](https://github.com/gbuenor73/search-selenium)
 
 <br/>
 
