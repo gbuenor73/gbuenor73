@@ -27,9 +27,9 @@
 <br/>
 
 - 🔭 I am currently working with development using Java
-- 🌱 I am currently learning Machine Learning and Data Science
-- 👯 I am looking to collaborate on my github repositories
-- 🤔 I am looking for help with Python, C, C++ and Java.
+<!-- 🌱 I am currently learning Machine Learning and Data Science 
+- 👯 I am looking to collaborate on my github repositories 
+- 🤔 I am looking for help with Python, C, C++ and Java. -->
 - 📫 How to reach me: gbuenor@live.com
 
 <br/>
