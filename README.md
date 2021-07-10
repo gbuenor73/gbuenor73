@@ -30,7 +30,11 @@
 <!-- 🌱 I am currently learning Machine Learning and Data Science 
 - 👯 I am looking to collaborate on my github repositories 
 - 🤔 I am looking for help with Python, C, C++ and Java. -->
-- 📫 How to reach me: gbuenor@live.com
+- 📫 How to reach me: mail: gbuenor@live.com or  phone: +5511951269909 
+- 💬 Ask me about Bueno
+- Nationality: Brazilian 
+
+⚡ Fun fact: I am skateboarder, I like cars, motorcycles, or anything that has an engine
 
 <br/>
 
@@ -57,12 +61,12 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Java Development
+- 🔭 I’m currently working on --
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-💬 Ask me about Bueno
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-⚡ Fun fact: I am skateboarder
+
 -->
