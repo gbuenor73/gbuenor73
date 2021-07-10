@@ -18,7 +18,7 @@
 </a>
 
 <!--
-<a href="https://www.facebook.com/">
+<a href="https://www.facebook.com/gbuenor">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 -->
@@ -50,19 +50,19 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gbuenor73&label=Views&color=blue&style=plastic" alt="gbuenor73" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gbuenor73&label=Views&color=brightgreen&style=flat" alt="gbuenor73" /> </p>
 
 <!--
 **gbuenor73/gbuenor73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on Java Development
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+💬 Ask me about Bueno
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Fun fact: I am skateboarder
 -->
