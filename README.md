@@ -44,7 +44,9 @@
 
 ### Some of my projects
 
-[![KAFKA ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=chat_web_socket&show_owner=true&theme=dark)](https://github.com/gbuenor73/chat_web_socket)
+[![WebSocket ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=chat_web_socket&show_owner=true&theme=dark)](https://github.com/gbuenor73/chat_web_socket)
+
+[![Angular 9-Essencials ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=app-angular&show_owner=true&theme=dark)](https://github.com/gbuenor73/app-angular)
 
 <br/>
 
