@@ -40,7 +40,7 @@
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbuenor73&theme=merko)](https://github.com/gbuenor73)
-<img align="top" src='https://github-readme-stats.vercel.app/api?username=gbuenor73&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'></img>
+<img align="top" src='https://github-readme-stats.vercel.app/api?username=gbuenor73&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151516'></img>
 
 
 ### Some of my projects
