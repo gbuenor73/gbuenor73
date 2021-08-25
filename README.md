@@ -27,14 +27,11 @@
 <br/>
 
 - 🔭 I am currently working with development using Java
-<!-- 🌱 I am currently learning Machine Learning and Data Science 
-- 👯 I am looking to collaborate on my github repositories 
-- 🤔 I am looking for help with Python, C, C++ and Java. -->
+- 🌱 I’m currently learning react-native, react, Angular and Aws
 - 📫 How to reach me: mail: gbuenor@live.com or  phone: +5511951269909 
-- 💬 Ask me about Bueno
 - Nationality: Brazilian 
 
-⚡ Fun fact: I am skateboarder, I like cars, motorcycles, or anything that has an engine
+⚡ Fun fact: I am skateboarder/surfer, loved cars, motorcycles, or anything that has an engine.
 
 <br/>
 
@@ -49,6 +46,8 @@
 ### Some of my projects
 
 [![WebSocket ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=chat_web_socket&show_owner=true&theme=dark)](https://github.com/gbuenor73/chat_web_socket)
+
+[![Reac-Native ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=react-native&show_owner=true&theme=dark)](https://github.com/gbuenor73/react-native)
 
 [![Angular 9-Essencials ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gbuenor73&repo=app-angular&show_owner=true&theme=dark)](https://github.com/gbuenor73/app-angular)
 
@@ -65,7 +64,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
+- 💬 Ask me about Bueno
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
