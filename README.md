@@ -27,7 +27,7 @@
 <br/>
 
 - 🔭 I am currently working with development using Java
-- 🌱 I’m currently learning react-native, react, Angular and Aws
+- 🌱 I’m currently learning react-native, react, Angular, Aws, Ports and Adapters/Hexagonal Architecture and others..
 - 📫 How to reach me: mail: gbuenor@live.com or  phone: +5511951269909 
 - Nationality: Brazilian 
 
