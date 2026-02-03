@@ -5,12 +5,12 @@
 - Nationality: Brazilian
 <!-- - 📫 How to reach me: mail: gbuenor@live.com or phone: +5511951269909 -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/gbuenor73">
     <img height="180em" src='https://github-readme-stats.vercel.app/api?username=gbuenor73&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'></img>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbuenor73&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
+</div> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbuenor73&layout=compact&theme=merko)](https://github.com/gbuenor73) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbuenor73&theme=merko)](https://github.com/gbuenor73) -->
 
@@ -19,6 +19,10 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 </br>
